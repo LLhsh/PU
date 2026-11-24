@@ -1,0 +1,10 @@
+# Python 3.10 or newer. Install a matching torch/torchvision pair for your CUDA.
+torch>=2.1
+torchvision>=0.16
+numpy>=1.24
+scipy>=1.10
+h5py>=3.8
+Pillow>=9.5
+tensorboard>=2.13
+tqdm>=4.65
+SimpleITK>=2.2
